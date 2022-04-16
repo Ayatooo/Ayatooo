@@ -1,5 +1,5 @@
 
-# Hey ! 🧙‍♂️
+# Hey ! <img src="./hey.gif" width="25px">
 
 I'm Louis, a french future full stack developper from Lyon.
 
@@ -10,18 +10,6 @@ Passionate with video games during my childhood, I discovered developpment 5 yea
 Currently in 2nd year at Ynov Lyon Campus 🧑‍💻
 
 
-## 🛠 Skills <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## 🛠 Skills
 
-<a href="https://www.instagram.com/abhishknads/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://www.joypixels.com/profiles/animated/star-struck" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
