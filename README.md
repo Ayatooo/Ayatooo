@@ -1,5 +1,5 @@
 
-# Hey ! <img src="./hey.gif" width="25px">
+# Hey ! <img src="./hey-star.gif" width="50px">
 
 I'm Louis, a french future full stack developper from Lyon.
 
