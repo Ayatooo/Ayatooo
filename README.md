@@ -8,7 +8,7 @@ Owner of a Minecraft PvP/Factions server named Idalia
 # About Me 🚀
 Passionate with video games during my childhood, I discovered developpment 5 years ago and I've been in 💕 !
 
-Currently in 2nd year at Ynov Lyon Campus 🧑‍💻
+Currently in 3rd year at Ynov Lyon Campus 🧑‍💻
 
 # Skills 🧙‍♂️
 
