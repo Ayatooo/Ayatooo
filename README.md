@@ -3,8 +3,6 @@
 
 I'm Louis, a french future full stack developper from Lyon.
 
-Owner of a Minecraft PvP/Factions server named Idalia
-
 # About Me 🚀
 Passionate with video games during my childhood, I discovered developpment 5 years ago and I've been in 💕 !
 
