@@ -6,7 +6,7 @@ I'm Louis, a french full stack developper from Lyon and a Laravel lover ⭐
 # About Me 🚀
 Passionate with video games during my childhood, I discovered developpment 5 years ago and I've been in 💕 !
 
-Currently in 3rd year at Ynov Lyon Campus 🧑‍💻
+Currently in 4th year at Ynov Lyon Campus 🧑‍💻
 
 # Skills 🧙‍♂️
 
