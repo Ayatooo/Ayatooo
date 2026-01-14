@@ -1,7 +1,7 @@
 ![Alt Text](https://i.pinimg.com/originals/ad/83/87/ad8387c6e38c4dd2cb3500800141f69e.gif)
 
 # 💫 About Me:
-Hey ! 🤩<br><br>Je suis Louis, développeur Full Stack français basé à Lyon et grand fan de Laravel ⭐<br>Je suis en alternance depuis 2 ans et freelance en Développement Web et DevOps depuis 1 an.<br><br>À propos de moi 🚀<br><br>Passionné par les jeux vidéo durant mon enfance, j'ai découvert le développement il y a 5 ans, et c'est devenu une vraie passion 💕 !<br><br>Actuellement en 5ème année à Ynov Lyon Campus (Master 2 Expert Développement Web) 🧑‍💻
+Hey ! 🤩<br><br>Je suis Louis, développeur Full Stack français basé à Lyon et grand fan de Laravel ⭐<br>Tech Lead chez Isi-APP après une alternance de 3 ans et Freelance en Développement Web et DevOps depuis 2 ans<br><br>À propos de moi 🚀<br><br>Passionné par les jeux vidéo durant mon enfance, j'ai découvert le développement il y a 5 ans, et c'est devenu une vraie passion 💕 !<br><br>Diplômé d'un Master Expert Développement Wev (Ynov Lyon Campus, 2020 - 2025) 🧑‍💻
 
 
 # 💻 Tech Stack:
